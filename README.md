@@ -10,7 +10,7 @@
 Totally Revision is a student and teacher platform created by **iamKuff** and **Bazza**.  
 It is intended to create an engaging platform for all individuals.
 
-<div style="background-color:#f0f8ff; padding:15px; border-radius:5px; border-left:4px solid #1e90ff;">
+<div style="background-color:#f0f8ff; padding:15px; border-radius:5px; border-left:4px solid #0023ff;">
   <p>Our mission is to make learning and teaching more interactive and accessible for everyone. While also offering more engaging activities. Yahurrr</p>
 </div>
 
