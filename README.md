@@ -1,16 +1,27 @@
-## Hi there 👋
+# Totally Revision
 
-<!--
-**totallyrevision/totallyrevision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/Website-totallyrevision.com-blue" alt="Website"/>
+  <img src="https://img.shields.io/badge/Creators-iamKuff_&_Bazza-blue" alt="Creators"/>
+</div>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Totally Revision is a student and teacher platform created by **iamKuff** and **Bazza**.  
+It is intended to create an engaging platform for all individuals.
+
+<div style="background-color:#f0f8ff; padding:15px; border-radius:5px; border-left:4px solid #1e90ff;">
+  <p>Our mission is to make learning and teaching more interactive and accessible for everyone. While also offering more engaging activities. Yahurrr</p>
+</div>
+
+## Connect
+
+<a href="https://totallyrevision.com">
+  <img src="https://img.shields.io/badge/Visit-TotallyRevision.com-1e90ff?style=for-the-badge" alt="Website"/>
+</a>
+
+## Color Palette
+- Primary Blue: `#1e90ff`
+- Light Blue: `#f0f8ff`
+- Black: `#000000`
+- White: `#ffffff`
