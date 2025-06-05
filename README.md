@@ -19,9 +19,3 @@ It is intended to create an engaging platform for all individuals.
 <a href="https://totallyrevision.com">
   <img src="https://img.shields.io/badge/Visit-TotallyRevision.com-1e90ff?style=for-the-badge" alt="Website"/>
 </a>
-
-## Color Palette
-- Primary Blue: `#1e90ff`
-- Light Blue: `#f0f8ff`
-- Black: `#000000`
-- White: `#ffffff`
