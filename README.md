@@ -7,7 +7,7 @@
 
 ## About
 
-Totally Revision is a student and teacher platform created by **iamKuff** and **Bazza**.  
+Totally Revision is a student and teacher platform created by **iamKuff**.  
 It is intended to create an engaging platform for all individuals.
 
 <div style="background-color:#0033ff; padding:15px; border-radius:5px; border-left:4px solid #0033ff;">
